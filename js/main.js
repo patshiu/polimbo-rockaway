@@ -50,13 +50,13 @@ function checkIfDone(){
 		$("#results").css("display", "block");
 		var totalAgainstNN = liked/totalSlides*100;
 		if (totalAgainstNN >= 50.0){
-			$("#foragainst").text("against");
-			$("#foragainst2").text("against");
+			$("#foragainst").text("for");
+			$("#foragainst2").text("for");
 			$("#magicNum").text(Math.round(totalAgainstNN));
 			$("#folksAgainstNN").css("display", "block");
 		} else {
-			$("#foragainst").text("for");
-			$("#foragainst2").text("for");
+			$("#foragainst").text("against");
+			$("#foragainst2").text("against");
 			$("#magicNum").text(Math.round(100-totalAgainstNN));
 			$("#folksForNN").css("display", "block");
 		}

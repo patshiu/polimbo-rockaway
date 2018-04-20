@@ -61,6 +61,7 @@ body {
 .announceResults h1 {
   color: #fb6754;
   margin: 6px 0;
+  font-size: 66px;
   font-style: italic;
   font-weight: 400;
   font-family: 'Playfair Display', serif;
@@ -94,9 +95,9 @@ body {
 
 .announceResults p.lead {
   color: #afffcc;
-  font-size: 14px;
+  font-size: 22px;
   font-family: 'Questrial', sans-serif;
-  padding: 20px 0 0 0;
+  padding: 20px 10px 200px 10px;
 }
 .announceResults p.yourMatches {
   font-size: 22px;
