@@ -16,7 +16,7 @@ Design by Pat Shiu.
 
 
 
-*Press:* 
-[Rhizome.org](https://rhizome.org/editorial/2017/apr/21/seven-on-seven-2017/)
-[Real Artists Ship](https://archive.newmuseum.org/exhibitions/2530) online exhibition, part of the New Museum's First Look series.
-[Product Hunt](https://www.producthunt.com/products/polimbo)
+**Press:**  
+[Rhizome.org](https://rhizome.org/editorial/2017/apr/21/seven-on-seven-2017/)  
+[Real Artists Ship](https://archive.newmuseum.org/exhibitions/2530) online exhibition, part of the New Museum's First Look series    
+[Product Hunt](https://www.producthunt.com/products/polimbo)  
